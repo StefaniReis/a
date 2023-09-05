@@ -1,0 +1,30 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+.header{
+
+  background-color: rgb(108, 255, 128);
+  height: 70px;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+.main{
+  background-color: rgb(10, 240, 22);
+  height: 80px;
+
+}
+li{
+  display: inline;
+}
+
+
+.footer {
+ background-color: rgb(129, 245, 158);
+height: 80px;
+}
+
